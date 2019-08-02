@@ -1,0 +1,7 @@
+Contributors to the project:
+* Name <email address / URL>
+
+Thanks go out to all the contributors listed in alphabetical order:
+
+* Farhan Ali<https://github.com/Farhan75>
+* Zahim Anass <https://github.com/kamotos>
