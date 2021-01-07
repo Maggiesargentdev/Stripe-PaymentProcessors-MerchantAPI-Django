@@ -6,7 +6,7 @@ braintree==3.8.0
 django-crispy-forms==1.4.0
 
 django-paypal==0.2
-lxml==3.4.1
+lxml==4.6.2
 mock==1.0.1
 
 raven==5.1.1
